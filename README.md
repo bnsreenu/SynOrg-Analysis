@@ -1,4 +1,4 @@
-# SynOrg-Analysis — Organoid Segmentation and Feature Extraction Pipeline
+# SynOrg-Analysis - Organoid Segmentation and Feature Extraction Pipeline
 
 Companion analysis pipeline for the [SynOrg](https://github.com/DigitalSreeni/SynOrg) synthetic organoid generator. Segments 3D organoid images, extracts 36–38 per-cell morphological, intensity, and topology features, and runs condition-specific analyses.
 
