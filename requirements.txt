@@ -1,0 +1,11 @@
+cellpose>=4.0
+matplotlib>=3.10
+numpy>=2.4
+pandas>=3.0
+scikit_learn>=1.6.1
+scipy>=1.17
+seaborn>=0.13
+scikit-image>=0.25
+statsmodels>=0.14
+tifffile>=2025.3
+torch>=2.0.0

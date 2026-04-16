@@ -1,0 +1,63 @@
+# SynOrg-Analysis .gitignore
+
+
+input/
+output/
+analysis/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Large data files
+*.tif
+*.tiff
+*.ome.tif
+*.csv
+*.h5
+*.hdf5
+*.npy
+*.npz
