@@ -2,6 +2,8 @@
 
 Companion analysis pipeline for the [SynOrg](https://github.com/DigitalSreeni/SynOrg) synthetic organoid generator. Segments 3D organoid images, extracts 36–38 per-cell morphological, intensity, and topology features, and runs condition-specific analyses.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19616110.svg)](https://doi.org/10.5281/zenodo.19616110)
+
 Companion to the manuscript:
 
 > Bhattiprolu S. (2025). *Parametric Physics-Based Synthesis of 3D Fluorescence Organoid Images with Exact Ground Truth for Deep Learning Pipeline Development.* bioRxiv. [DOI placeholder]
@@ -140,6 +142,12 @@ If you use SynOrg-Analysis in your research, please cite:
 Bhattiprolu S. (2025). Parametric Physics-Based Synthesis of 3D Fluorescence
 Organoid Images with Exact Ground Truth for Deep Learning Pipeline Development.
 bioRxiv. DOI: [placeholder]
+```
+And the software directly:
+
+```
+Bhattiprolu S. (2025). SynOrg: Synthetic Organoid Generator (v1.0.0).
+Zenodo. DOI: 10.5281/zenodo.19616110
 ```
 
 ---
